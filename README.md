@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🤖 Personal AI Knowledge Assistant
 
 An AI-powered document question-answering system that allows users to upload PDF documents and chat with them using Retrieval-Augmented Generation (RAG).
@@ -194,3 +194,9 @@ Developed as part of an AI-powered document understanding project using Retrieva
 ## 📜 License
 
 This project is intended for educational and learning purposes.
+<<<<<<< HEAD
+=======
+=======
+# personal-ai-knowledge-assistant
+
+>>>>>>> e269a96461b4a30e451e00bbb51a7b50709c5a52
